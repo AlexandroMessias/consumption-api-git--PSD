@@ -1,0 +1,118 @@
+/*INFO USERS*/
+.item .container{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    padding-top: 120px;
+
+}
+
+.itens{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    flex-direction: column;
+    flex: 1;
+    margin-bottom: 100px;
+    color: #6C7279;
+}
+
+.itens p{
+    font-size: 14px;
+    margin-top: 26px;
+    margin-bottom: 19px;
+}
+
+.avatar{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    flex-direction: column;
+    flex: 1;
+    margin-bottom: 0px;
+}
+
+.infonome{
+    margin-top: 14px;
+    margin-bottom: 0;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    font-size: 22px;
+}
+
+.infologin{
+    margin-top: 9px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    font-size: 13px;
+}
+
+.bio{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    font-size: 16px;
+    text-align: left;
+    color: #6C7279; 
+    }
+
+.site a{
+    font-size: 24px;
+    max-width: 250px;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+
+.nomeavatar{
+    padding-top: 20px;
+    text-align: left;
+    font-size: 22px;
+    color: rgb(45,48,51);
+    font-family: "Myriad Pro";
+    padding-left: 60px;
+}
+
+.loginavatar{
+    padding-top: 15px;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: red;
+}
+.loginavatar{
+    text-align: left; 
+    font-weight: bold;
+    font-size: 13px;
+    color: rgb(232,69,69);
+    font-family: "Myriad Pro";
+    padding-left: 60px;
+}
+
+.infobio{
+    padding-top: 35px;
+    text-align: left;
+    font-weight: bold;
+    width: 280px;
+    font-size: 16px;
+    line-height: 21px;
+    color: rgb(108,114,121);
+    font-family: "Myriad Pro";
+    padding-left: 60px;
+    padding-bottom: 40px;
+}
+
+.avatarimg{
+    padding-right: 60px;
+}
+
+
+/*QUANDO NÃO ACHAR USUARIO*/
+.erro{
+    color:rgb(14, 122, 185);
+    text-align: center;
+    margin-top: 80px;
+    height: 600px;
+}
