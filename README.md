@@ -11,7 +11,7 @@ yarn add vue-router
 yarn serve
 
 
-Faz pouco tempo que comecei a programar, então qualquer opinão produtiva é bem vinda.
+Faz pouco tempo que comecei a programar, então qualquer opinião produtiva é bem vinda.
 ```
 
 ### Compiles and minifies for production
