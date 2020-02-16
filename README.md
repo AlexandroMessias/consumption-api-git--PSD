@@ -9,6 +9,9 @@ yarn add vue-router
 ### Compiles and hot-reloads for development
 ```
 yarn serve
+
+
+Faz pouco tempo que comecei a programar, então qualquer opinão produtiva é bem vinda.
 ```
 
 ### Compiles and minifies for production
